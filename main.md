@@ -1,3 +1,6 @@
+layout: page
+title: "Workshop Overview"
+permalink: https://gitenterprise-cloud.github.io/mdcremediation.github.io/
 ## Overview ##
 
 The purpose of this workshop is to showcase the response capabilities related to Defender for Cloud's alerts and recommendations 
